@@ -1,0 +1,4 @@
+mediapipe>=0.10.5
+opencv-python>=4.7.0
+numpy>=1.21.0
+pyttsx3>=2.90
